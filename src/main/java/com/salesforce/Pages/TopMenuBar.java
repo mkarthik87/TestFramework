@@ -100,16 +100,18 @@ public class TopMenuBar extends CommonLib
 	{
 		Object page = null;
 		all.click();
-		switch(sectionName)
+		if(sectionName.equals("Email Campaigns"))
 		{
-		  case "Email Campaigns": findElementByXpath("//div[@class='menu-item']/*[text()='"+sectionName+"']").click();
+		findElementByXpath("//div[@class='menu-item']/*[text()='"+sectionName+"']").click();
 		                            page=PageFactory.initElements(Driver.driver, EmailCampaignPage.class);
-		                            break;
+	    }
 		                            
-		  case "Quotes": 
-		  
-		  default:System.out.println("invalid section..");
-		          break;
+		 else if(sectionName.equals("Quotes"))
+          {
+          }		  
+		  else{
+		  System.out.println("invalid section..");
+		       }
 		}
 		return page;
 	}
