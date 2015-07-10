@@ -9,4 +9,5 @@ public interface Constants
 	static String report_path="C:\\Users\\mkarthik\\Downloads\\SalesForceId\\SalesForceId\\report";
 	static String imageLocation = "images\\";
 	static String logPath=System.getProperty("user.dir")+"/src/log4j.properties";
+	static String value="a";
 }
