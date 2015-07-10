@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages
+END
+HomePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/HomePage.java
+END
+ReportsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/ReportsPage.java
+END
+CalendarPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/CalendarPage.java
+END
+RegularCampaign.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/RegularCampaign.java
+END
+SubscriptionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/SubscriptionPage.java
+END
+ReviewAndSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/ReviewAndSend.java
+END
+DocumentsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/DocumentsPage.java
+END
+LeadsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/LeadsPage.java
+END
+MailManagerPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/MailManagerPage.java
+END
+EditContactPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/EditContactPage.java
+END
+OrganizationPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/OrganizationPage.java
+END
+ContactsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/ContactsPage.java
+END
+TemplateSelectionPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/TemplateSelectionPage.java
+END
+CampaignDetailsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/CampaignDetailsPage.java
+END
+OpportunitiesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/OpportunitiesPage.java
+END
+TopMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/TopMenuBar.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/Calendar.java
+END
+EmailCampaignPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/EmailCampaignPage.java
+END
+LoginPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/LoginPage.java
+END
+TicketsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/SalesForceframework/!svn/ver/2/src/main/java/com/salesforce/Pages/TicketsPage.java
+END

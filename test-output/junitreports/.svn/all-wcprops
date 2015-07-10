@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SalesForceframework/!svn/ver/2/test-output/junitreports
+END
+TEST-com.salesforce.TestCases.LoginTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/SalesForceframework/!svn/ver/2/test-output/junitreports/TEST-com.salesforce.TestCases.LoginTest.xml
+END
+TEST-com.salesforce.TestCases.CreateProjectTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SalesForceframework/!svn/ver/2/test-output/junitreports/TEST-com.salesforce.TestCases.CreateProjectTest.xml
+END
+TEST-com.salesforce.TestCases.NewTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SalesForceframework/!svn/ver/2/test-output/junitreports/TEST-com.salesforce.TestCases.NewTest.xml
+END
+TEST-com.salesforce.TestCases.CreateContactTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/SalesForceframework/!svn/ver/2/test-output/junitreports/TEST-com.salesforce.TestCases.CreateContactTest.xml
+END

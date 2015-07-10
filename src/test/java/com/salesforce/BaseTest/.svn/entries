@@ -1,0 +1,40 @@
+8
+
+dir
+3
+https://10.193.72.192:8443/svn/SalesForceframework/src/test/java/com/salesforce/BaseTest
+https://10.193.72.192:8443/svn/SalesForceframework
+
+
+
+2015-07-06T06:37:54.085411Z
+2
+karthik
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+721be3ee-98e1-c34e-a9a0-d5a0b0a2f7cf
+
+BaseTest.java
+file
+
+
+
+
+2015-07-06T09:10:28.037000Z
+c116c0946366933e2d49cd222b10ccef
+2015-07-06T06:37:54.085411Z
+2
+karthik
+

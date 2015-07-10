@@ -1,0 +1,46 @@
+8
+
+dir
+3
+https://10.193.72.192:8443/svn/SalesForceframework/test-output/old
+https://10.193.72.192:8443/svn/SalesForceframework
+
+
+
+2015-07-06T06:37:54.085411Z
+2
+karthik
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+721be3ee-98e1-c34e-a9a0-d5a0b0a2f7cf
+
+Default suite
+dir
+
+Suite
+dir
+
+index.html
+file
+
+
+
+
+2015-07-06T09:10:31.994000Z
+224cfd712cca2cfd9b465ff6876851df
+2015-07-06T06:37:54.085411Z
+2
+karthik
+
