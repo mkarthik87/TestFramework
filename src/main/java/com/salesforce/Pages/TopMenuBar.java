@@ -102,28 +102,17 @@ public class TopMenuBar extends CommonLib
 		all.click();
 		if(sectionName.equals("Email Campaigns"))
 		{
-		findElementByXpath("//div[@class='menu-item']/*[text()='"+sectionName+"']").click();
-		                            page=PageFactory.initElements(Driver.driver, EmailCampaignPage.class);
+		       findElementByXpath("//div[@class='menu-item']/*[text()='"+sectionName+"']").click();
+		       page=PageFactory.initElements(Driver.driver, EmailCampaignPage.class);
 	    }
-		                            
-		 else if(sectionName.equals("Quotes"))
-          {
-          }		  
-		  else{
+		/*else if(sectionName.equals("Quotes"))
+		{
+			
+        }		  
+		else
+		{
 		  System.out.println("invalid section..");
-		       }
-		}
+		}*/
 		return page;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
